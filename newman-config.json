@@ -1,0 +1,12 @@
+{
+    "reporter": ["cli", "json", "html"],
+    "reporter-json-export": "test-results.json",
+    "reporter-html-export": "test-results.html",
+    "delay-request": 1000,
+    "timeout-request": 10000,
+    "timeout-script": 5000,
+    "bail": false,
+    "ignore-redirects": false,
+    "insecure": false,
+    "verbose": true
+}
